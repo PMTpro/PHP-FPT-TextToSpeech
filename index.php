@@ -13,7 +13,7 @@
         
         <form method="post" action="">
             <textarea id="content" rows="9" cols="auto" style="width: 98%"></textarea>
-            <button id="button" type="button">OK</buton>
+            <button id="button" type="button">OK</button>
         </form>
         
         
